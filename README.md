@@ -39,8 +39,8 @@
 <h3 align="left">🔥 My Stats: </h3>
 
 <p align="left">
-  <img src="https://octostats.mondov.dev/widget?username=mondov-dev&type=overview&width=350" alt="GitHub Stats for mondov-dev" style="display: inline-block; vertical-align: top;"/>
-  <img src="https://octostats.mondov.dev/widget?username=mondov-dev&type=languages&width=350" alt="GitHub Languages for mondov-dev" style="display: inline-block; vertical-align: top;"/>
+  <img src="https://octostats.mondov.dev/widget?username=mondov-dev&type=overview&width=400" alt="GitHub Stats for mondov-dev" style="display: inline-block; vertical-align: top;"/>
+  <img src="https://octostats.mondov.dev/widget?username=mondov-dev&type=languages&width=400" alt="GitHub Languages for mondov-dev" style="display: inline-block; vertical-align: top;"/>
 </p>
 
 <p><a href="https://octostats.mondov.dev" target="_blank">Get widgets with your GitHub stats at octostats.mondov.dev</a></p>
