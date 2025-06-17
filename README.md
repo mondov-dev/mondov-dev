@@ -41,5 +41,3 @@
 <p align="left">
   <img src="https://octostats.mondov.dev/widget?username=mondov-dev&type=overview&width=400" alt="GitHub Stats for mondov-dev" style="display: inline-block; vertical-align: top;"/>
 </p>
-
-<p><a href="https://octostats.mondov.dev" target="_blank">Get widgets with your GitHub stats at octostats.mondov.dev</a></p>
